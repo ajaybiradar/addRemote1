@@ -24,3 +24,5 @@ var ex = [{ "values": "ITIL User - 2" },
 
  var addToGit = "yes";
  var wasNotKnown = "Tom me";
+
+ var motive = "stay strong always";
