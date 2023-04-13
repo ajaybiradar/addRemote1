@@ -13,5 +13,10 @@ var ex = [{ "values": "ITIL User - 2" },
  { "values": "David Loo - 2" }, 
  { "values": "Bow Ruggeri - 4" }]
 
- var obj = JSON.parse(ex);
- console.log(obj);
+ console.log(ex);
+
+ var name3 = "ajay here";
+ var name1 = "prasen";
+ console.log(name1 + name);
+
+ var name2 = "what ";
