@@ -21,3 +21,6 @@ var ex = [{ "values": "ITIL User - 2" },
 
  var name2 = "what ";
  var name4 = "chaning";
+
+ var addToGit = "yes";
+ var wasNotKnown = "Tom me";
